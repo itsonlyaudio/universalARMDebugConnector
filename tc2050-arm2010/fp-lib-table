@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name tc2050-arm2010)(type KiCad)(uri /home/remco/Documents/itsonlyaudio/20200116_tc2050-arm2010/tc2050-arm2010)(options "")(descr ""))
+)
